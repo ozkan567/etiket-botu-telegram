@@ -3,13 +3,13 @@
     "description": "A simple mention all for telegram.",
     "env": {
         "TOKEN": {
-            "description": "Enter bot token."
+            "description": "6716666574:AAEgio4eFtQW-2KzpfI6OCiqb4m9UTsMLng"
         },
         "APP_ID": {
-            "description": "Get this value from my.telegram.org! Please do not steal."
+            "description": "14209813"
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org! Please do not steal."
+            "description": "f6fc4af6fa07543ace7bcf771e89cdd2"
         }
     },
     "buildpacks": [{"url": "heroku/python"}]
